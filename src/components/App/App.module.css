@@ -1,0 +1,12 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.appBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid black;
+}
